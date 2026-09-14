@@ -1,3 +1,9 @@
+# 非公開フォルダ
+Unshare/*
+
+# pptxファイルは共有なし
+*.pptx
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
